@@ -22,3 +22,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Copies and Backups
+.git copy/
+* copy.*
+* copy/
+
